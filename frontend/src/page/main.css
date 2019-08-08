@@ -1,0 +1,11 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    margin-top: 10px;
+    padding-top: 150px;
+}
+
+.company_header {
+    display: flex;
+    justify-content: space-between;
+}
